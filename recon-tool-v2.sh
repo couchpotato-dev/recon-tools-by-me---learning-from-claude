@@ -2,7 +2,7 @@
 
 
 # ============================
-# recon2.sh - stage 2 tool
+# recon-tool-v2.sh - stage 2 tool
 # validates input, checks host
 # ============================
 

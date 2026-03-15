@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # ==============================
-# quickrecon.sh - beginner tool
+# recon-tool-v1.sh - beginner tool
 # check if a host is alive
 # ==============================
 
